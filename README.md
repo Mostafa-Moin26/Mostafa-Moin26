@@ -24,10 +24,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100024146197612&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100024146197612&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/mostafa_moin2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/mostafa_moin2" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/mostafa_moin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/mostafa_moin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/mostafa_moin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mostafa_moin/" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100024146197612&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100024146197612&mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mostafa_moin2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/mostafa_moin2" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mostafa_moin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/mostafa_moin" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mostafa_moin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mostafa_moin/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
