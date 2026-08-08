@@ -40,7 +40,7 @@
 ### 📊 Ratings
 - Codeforces: **Max Rating 1351**  
 - CodeChef: **3⭐ (1640+)**  
-- LeetCode: **1650+**
+- LeetCode: **1700+**
 
 <p align="center">
   <a href="https://codeforces.com/profile/Moin26">Codeforces</a> •
