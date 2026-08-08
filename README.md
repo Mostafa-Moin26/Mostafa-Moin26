@@ -80,23 +80,6 @@
 
 ## 📱 Projects
 
-### 🛒 Nubify - E-commerce App (In Progress)
-
-- Modern **Flutter-based e-commerce application**
-
-- Users can browse & purchase clothes, shoes, electronics, and more
-
-- 🔥 Features:
-
-  - Firebase integration
-  - Clean architecture
-  - State management
-  - Scalable feature-based structure
-
-- ⚡ Focused on building a **production-ready application**
-
----
-
 ### 🚚 Lohagara Carrier - Logistics & Billing Management App
 
 - A **real-world Flutter-based logistics and transport management
@@ -135,6 +118,24 @@
   and professional report generation.
 
 ---
+
+### 🛒 Nubify - E-commerce App (In Progress)
+
+- Modern **Flutter-based e-commerce application**
+
+- Users can browse & purchase clothes, shoes, electronics, and more
+
+- 🔥 Features:
+
+  - Firebase integration
+  - Clean architecture
+  - State management
+  - Scalable feature-based structure
+
+- ⚡ Focused on building a **production-ready application**
+
+---
+
 
 ## 📊 GitHub Stats
 
