@@ -81,39 +81,58 @@
 ## 📱 Projects
 
 ### 🛒 Nubify - E-commerce App (In Progress)
+
 - Modern **Flutter-based e-commerce application**
-- Users can browse & purchase clothes, shoes, electronics, and more  
+
+- Users can browse & purchase clothes, shoes, electronics, and more
 
 - 🔥 Features:
-  - Firebase integration  
-  - Clean architecture  
-  - State management  
-  - Scalable feature-based structure  
+
+  - Firebase integration
+  - Clean architecture
+  - State management
+  - Scalable feature-based structure
 
 - ⚡ Focused on building a **production-ready application**
 
 ---
 
-### 🎓 EduSphere - School Management System (In Progress)
-- A complete **school management platform**
+### 🚚 Lohagara Carrier - Logistics & Billing Management App
+
+- A **real-world Flutter-based logistics and transport management
+  application** developed for a client's business to manage
+  transportation records, monthly billing, and business reports
 
 - 🔥 Features:
-  - 👥 Multi-role system (**Admin, Teacher, Student, Guest**)  
-  - 📝 Quiz system  
-  - 📊 Result management  
-  - 📅 Attendance tracking  
-  - 📈 Progress tracking  
-  - 🏫 Covers real-world school functionalities  
 
-- ⚙️ Backend:
-  - All operations handled using **Firebase**
-  - Stores:
-    - Student & teacher data  
-    - Attendance records  
-    - Quiz & result data  
-    - User roles & authentication  
+  - 🚚 Transportation record management
+  - 🏢 Automatic company & factory management through records
+  - 📊 Dashboard with monthly billing, trips, demurrage & factory statistics
+  - 🧾 Factory-wise monthly billing
+  - 📑 Company-wise summary reports
+  - 📄 Monthly & summary PDF report generation
+  - 👁️ PDF preview
+  - ⬇️ PDF download
+  - 🔗 PDF sharing
+  - 🗂️ Firestore-based report history
+  - 🔍 Report search & filtering
+  - 🗑️ Report deletion with confirmation
 
-- ⚡ Designed as a **real-world backend-integrated system**
+- ⚙️ Tech Stack:
+
+  - Flutter & Dart
+  - GetX
+  - Firebase Authentication
+  - Cloud Firestore
+  - Clean Architecture
+
+- 💼 **Built for real-world business use and currently used by a
+  client to manage their day-to-day transportation and billing
+  operations.**
+
+- ⚡ Designed with a **feature-based architecture** focused on
+  maintainability, scalable business logic, automated billing,
+  and professional report generation.
 
 ---
 
