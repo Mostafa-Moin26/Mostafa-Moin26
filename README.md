@@ -157,7 +157,9 @@
 ## 📫 Contact
 
 <p align="center">
-  📧 almostafamoin26@gmail.com
+  📧 <a href="mailto:almoinmostafa@gmail.com">Email</a> •
+  💼 <a href="https://www.linkedin.com/in/almoin/">LinkedIn</a> •
+  💬 <a href="https://wa.me/8801845664426">WhatsApp</a>
 </p>
 
 ---
